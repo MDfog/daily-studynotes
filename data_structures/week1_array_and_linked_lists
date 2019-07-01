@@ -13,3 +13,29 @@ Times for common operations
 
 
 Singly-Linked List
+
+
+------------------------------------------------------
+[Time complexity]
+
+time complexity estimates how an algorithm performs regardless kind of machine it runs on.
+
+O(1) - Constant Time
+: takes the same amount of time to compute regardless of the input size.
+
+O(n) - Linear time
+: the program visits every element from the input.
+
+O(n^2) - Quadratic time
+
+O(n^c) - Polynomial time
+
+O(log n) - Logarithmic time
+ex, binary search
+
+O(n log n) - Linearithmic
+
+O(n log n) - Linearithmic
+
+O(2^n) - Exponential time
+O(n!) - Factorial time
